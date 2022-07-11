@@ -1,3 +1,5 @@
+# Tasks:
+
 Use the API 
 https://rapidapi.com/eec19846/api/investors-exchange-iex-trading/
 to download data for 100 stocks and save in separate csv files for each stock.
