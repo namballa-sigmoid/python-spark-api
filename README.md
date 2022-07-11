@@ -20,3 +20,15 @@ For Spark you can use Scala or Pyspark.
 
 For API again you can use Scala or Python.
 
+# Project Stucture:
+
+The folder 'csv_data' contains the required data in CSV format for 25 companies.
+
+The folder 'server' contains the Flask app, where the routes are defined.
+
+THe folder 'server/templates' contains the HTML files used to show the response.
+
+The folder 'utils':
+* companies.txt  --  A auto generated text file containing the Stock names.
+* data_collection.py  --  The file contains code for collecting data in CSV format under folder 'csv_data'
+* queries.py  --  The file contains SQL queries used to get the required data according to tasks mentioned above.
