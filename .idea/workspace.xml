@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781dc664-657b-4b7c-91cb-fd260078a61a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/templates/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/companies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/companies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data_collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/data_collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/queries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -130,5 +137,16 @@
       <updated>1657026057897</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
